@@ -47,4 +47,4 @@ You can buy this book the following online stores:
 
 * Google Play Books: https://play.google.com/store/books/details?id=t831EAAAQBAJ
 * Lulu: https://www.lulu.com/shop/agus-kurniawan/hallo-microsoft-excel-mastering-data-analytics/ebook/product-5799z22.html 
-* Apple iBookstore: 
+* Apple iBookstore: http://books.apple.com/us/book/id6478044556 
